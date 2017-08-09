@@ -18,7 +18,7 @@ void mostrarAjuda() {
     cout << "---- Instituto Federal de Rondônia - Campus Ariquemes ----" << endl;
     cout << "Criptografa e descriptografa mensagens usando Cifra Hebraica (ATBASH, ATBAH ou ALBAM)" << endl;
     cout << "N. A. V. Simões <natanael.simoes@ifro.edu.br>" << endl;
-    cout << "http://github.com/ifroariquemes/Hebrew" << endl << endl;
+    cout << "http://github.com/ifroariquemes/CifraHebraica" << endl << endl;
     cout << "Uso:" << endl << endl;
     cout << "      hebrew -c|-d mensagem [-m metodo]" << endl << endl;
     cout << " -c mensagem      Criptografa uma mensagem" << endl;
